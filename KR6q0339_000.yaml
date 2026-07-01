@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0339/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石溪心月禪師雜錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1406.xml
+    old_id: X71n1406
+hash: sha256:d77cad4de281aacc44f5b364965e79e45f0ae1b25a2abdcb06882830745687e3
