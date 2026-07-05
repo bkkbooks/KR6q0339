@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0339_000.yaml, hash: 'sha256:d77cad4de281aacc44f5b364965e79e45f0ae1b25a2abdcb06882830745687e3'}
-  - {seq: 1, filename: KR6q0339_001.yaml, hash: 'sha256:73be3df88a6eae2075e367ad7a2c5ec211f38c96ab0b91b890dabd2473f51a4a'}
+  - {seq: 1, filename: KR6q0339_001.yaml, hash: 'sha256:1232c027c9fbf6d29284f0157002ad145a2fbb86282a2ec2fa3fc59f9f0eff4e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0339_001.markers.yaml, hash: 'sha256:2932ba79cad8a5c52f6577ab1a09ed44cbda321d7e5f257135dee04691610e7d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0339_000.markers.yaml, hash: 'sha256:3ee3a58ce0057c680cc920a35d6b396aa099f75107fe646688de49d43f1088c3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0339_001.markers.yaml, hash: 'sha256:61cb3595dcd678cbdb907b5898faa6fc28b9584ca493d2348b32b9df15609fd9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1036,7 +1037,4 @@ table_of_contents:
   label: 癡絕和尚　沂首座
   type: mulu
   level: 1
-hash: sha256:42525f7de89943b32eb3ec6445107a15ab4f3464e423e27a5dd26a4303526b79
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eabd157f90613d327f380f0c3d159720bbac6de7e9fa06244b9fd5ad0d3f811a
