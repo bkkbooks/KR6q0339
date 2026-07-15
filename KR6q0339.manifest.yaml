@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0339/v1
 canonical_location: https://kanripo.org/bkk/KR6q0339/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 石溪心月禪師雜錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0339_000.yaml, hash: 'sha256:d77cad4de281aacc44f5b364965e79e45f0ae1b25a2abdcb06882830745687e3'}
-  - {seq: 1, filename: KR6q0339_001.yaml, hash: 'sha256:1232c027c9fbf6d29284f0157002ad145a2fbb86282a2ec2fa3fc59f9f0eff4e'}
+  - {seq: 1, filename: KR6q0339_001.yaml, hash: 'sha256:0272f87531ef59d024ec844d6888cac5fe67dfdec516e50d0f8f3613e1e324d1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0339_000.markers.yaml, hash: 'sha256:3ee3a58ce0057c680cc920a35d6b396aa099f75107fe646688de49d43f1088c3'}
-  - {seq: 1, role: markers, filename: assets/KR6q0339_001.markers.yaml, hash: 'sha256:61cb3595dcd678cbdb907b5898faa6fc28b9584ca493d2348b32b9df15609fd9'}
+  - {seq: 1, role: markers, filename: assets/KR6q0339_001.markers.yaml, hash: 'sha256:3df8a8ace1a86714adc982695b255914c6c01f414a0ce1848e02563046fed89d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1037,4 +1037,7 @@ table_of_contents:
   label: 癡絕和尚　沂首座
   type: mulu
   level: 1
-hash: sha256:eabd157f90613d327f380f0c3d159720bbac6de7e9fa06244b9fd5ad0d3f811a
+hash: sha256:f7640d1586c242ffb9cee84e0e68a411551d9f210707847e0fcf640212d6e352
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
